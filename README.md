@@ -1,3 +1,1 @@
-python_project_ideas abc huuuu
-shjsn wkjkjk    kjak
-sjhjh ha aj aaa j      ddd
+python_project_ideas from Martyr2'S Mega Project Ideas List!
