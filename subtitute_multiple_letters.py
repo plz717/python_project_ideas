@@ -17,6 +17,5 @@ def replace(source, target, file):
             # f_new.close()
     return f_new
 
-
-a = replace('0', 'a',
-            '/home/plz/python_program/python简明教程/README')
+if __name__=='__main__':
+    a = replace('0', 'a','/home/plz/python_program/python简明教程/README')

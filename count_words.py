@@ -15,5 +15,6 @@ def count_words(f):
     return count
 
 
-file = open("/home/plz/python_program/project _ideas/README.md")
-count = count_words(file)
+if __name__ == '__main__':
+    file = open("/home/plz/python_program/project _ideas/README.md")
+    count = count_words(file)
